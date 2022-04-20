@@ -1,7 +1,7 @@
-# Automatic Tongue diagnosis System
+# Automatic Tongue Diagnosis System
 
 > This project is to apply artificial intelligence to traditional Chinese medical tongue diagnosis.  
-> We use YOLOv5 to train our data model and deploy it as a IOS app.
+> We use YOLOv5 to train our data model and deploy it on IOS.
 
 ## Dataset
 
@@ -29,3 +29,6 @@
  | crenated tongue | 42 | 9 | 0.981 | 1 | 0.996 | 0.937 | 
  | fissured tongue | 42 | 2 | 1 | 1 | 0.995 | 0. 945 | 
  | normal tongue | 42 | 31 | 0.992 | 1 | 0.997 | 0. 923 | 
+
+## Demo
+
